@@ -7,7 +7,7 @@ $magenta = "\e[35m";
 $hijau = "\e[92m";
 $merah = "\e[91m";
 echo "$hijau  ×============================================×\n";
-echo "$hijau  [  FACEBOOK PERFIL & GUARD 🔒:  : StrandHogg   ]\n";
+echo "$hijau  [  FACEBOOK PERFIL & GUARD 🔒:  : Nome : Sthgg ]\n";
 echo "$hijau  ×============================================ï¿½\n\n";
 echo "$input $magenta FB ACCOUNT GUARD TESO ERTED>> : ";
 $token= trim(fgets(STDIN));
