@@ -16,7 +16,7 @@ $ git clone https://github.com/Sthgg/FBSHGG
 
 $ cd FBSHGG
 
-$ php GuardFbShgg.php
+$ php GuardSthgg.php
 
 
 Input your token facebook
